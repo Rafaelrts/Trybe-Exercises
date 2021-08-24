@@ -10,4 +10,3 @@ O que é o terminal?
 Comandos executados no Shell.
 
 
-
